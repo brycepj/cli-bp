@@ -2,12 +2,12 @@
 
 boilerplate for commander-style node cli apps. 
 
-## gettting started
+## getting started
 
-1. Download as zip
+1. Download as zip or clone
 2. npm install
-3. chmod u+x ./lib/main.js
-4. Run with ./lib/main.js
+3. `chmod u+x ./lib/main.js`
+4. Run with `./lib/main.js`
 
 ## make it global
 
