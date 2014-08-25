@@ -7,7 +7,6 @@
     "commander": "~2.3.0"
   },
   "bin": {
-	  // cli exe name : main exe file
     "cli-boilerplate": "lib/main.js"
   }
 }
