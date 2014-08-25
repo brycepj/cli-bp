@@ -1,12 +1,13 @@
 {
-  "name": "cli-starter-kit",
+  "name": "cli-boilerplate",
   "version": "0.0.1",
-  "description": "A simple node CLI starter",
+  "description": "A simple node CLI starter kit",
   "author": "Author Name",
   "dependencies": {
     "commander": "~2.3.0"
   },
   "bin": {
-    "cli-starter-kit": "lib/main.js"
+	  // cli exe name : main exe file
+    "cli-boilerplate": "lib/main.js"
   }
 }
